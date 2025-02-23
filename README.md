@@ -1,1 +1,1 @@
-## Comments and readme will br updated soon!!
+## Comments and readme will be updated soon!!
