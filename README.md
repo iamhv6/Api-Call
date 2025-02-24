@@ -1,6 +1,6 @@
 ## Comments and readme will be updated soon!!
 
-## Installation 
+## 1) Installation 💻
 
 **To run this program please install [Node.js](https://nodejs.org/en/download) first**
 
@@ -19,7 +19,7 @@ const path = require("path");
 ```
 
 
-## Preview 
+## 2) Preview 🎬
 
 https://github.com/user-attachments/assets/8c049988-59af-4582-8192-1ad0f9cdd412
 
